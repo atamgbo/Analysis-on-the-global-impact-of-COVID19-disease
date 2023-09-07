@@ -15,5 +15,7 @@ The dashboard provides a visual representation of the global COVID-19 landscape,
 the percentage of the population infected in various continents and countries, and a forecast of the spread of the disease based on current data. Users can effortlessly navigate through the data, gaining 
 an in-depth understanding of how different nations have been affected. It gives a good perspective on pandemic's trajectory, showing patterns across countries, continents, and drawing meaningful insights 
 that contributes to a better understanding of the unprecedented global health crisis.
-(https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease/blob/main/Screenshot%202023-09-07%20at%201.19.37%20PM.png)
+# Dashboard
+![dashboard](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease/blob/main/Screenshot%202023-09-07%20at%201.19.37%20PM.png)
+
 [Click here to view the interactive dashboard](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Covid-19Dashboard_16351836180290/Dashboard1)
