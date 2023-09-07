@@ -18,4 +18,4 @@ that contributes to a better understanding of the unprecedented global health cr
 # Dashboard
 ![dashboard](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease/blob/main/Screenshot%202023-09-07%20at%201.19.37%20PM.png)
 
-[Click here to view the interactive dashboard](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Covid-19Dashboard_16351836180290/Dashboard1)
+[View interactive dashboard](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Covid-19Dashboard_16351836180290/Dashboard1)
