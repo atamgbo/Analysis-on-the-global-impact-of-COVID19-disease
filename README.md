@@ -1,7 +1,7 @@
-# Exploring the Global COVID-19 Pandemic: A Visual Analysis of Cases and Deaths using SQL and Tableau
+# Global Pandemic Analysis: Understanding the COVID-19 Crisis with SQL and Tableau
 
 
-# Intriduction
+# Introduction
 This project delves into the profound impact of COVID-19 pandemic on the global population through SQL analysis and an insightful Tableau dashboard. 
 The interactive dashboard meticulously presents a comprehensive overview of the pandemic's reach, showcasing vital statistics that shed light on the severity and scale.
 
